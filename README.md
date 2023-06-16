@@ -48,7 +48,7 @@ endmodule
 ![image](https://github.com/maheshrajpurohit18/Simulation-project--Digital-Electronics/assets/118749665/2ffe2bbc-af82-451e-9b10-e0a7bc00384c)
 
 # TIMING DIAGRAM
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/113497410/243946711-db21b3f9-36ff-40a6-bb95-b6b5da1bb824.png)
 
 # TRUTH TABLE
 ![image](https://github.com/maheshrajpurohit18/Simulation-project--Digital-Electronics/assets/118749665/6f460c38-24ad-4b03-9651-c538e7d979cc)
